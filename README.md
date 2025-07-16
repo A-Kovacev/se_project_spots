@@ -26,6 +26,8 @@ The footer simply displays the date, copyrights symbol, and "Spots". It remains 
 
 - [Deployment Link](https://a-kovacev.github.io/se_project_spots/)
 
+- [Video Link](https://drive.google.com/file/d/1S0NUGXM6rbp4Biq3lUWnUy9DQwxdG-eK/view?usp=sharing)
+
 ### Overview
 
 - Intro

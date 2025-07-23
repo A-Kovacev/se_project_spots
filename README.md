@@ -16,7 +16,7 @@ The header shrinks into one column when the screen hits a max-width of 627px or 
 
 ![Content Cards Screenshot](./images/Cards Screenshot.jpg "Cards Screenshot")
 
-The content cards display the images you post with a description and the option to like them as well. The like icon is shaped like a heart and uses a hover effect. The cards are layed out using a grid declarations which allows the number of columns to shrink as the size of the screen does. This columns are stacked on eachother to form one single column. This is to help compatibility with different size screens.
+The content cards display the images you post with a description and the option to like them as well. The like icon is shaped like a heart and uses a hover effect. The cards are layed out using a grid declarations which allows the number of columns to shrink as the size of the screen does. This columns are stacked on eachother to form one single column. This is to help compatibility with different size screens.dddddddddddddddddddddddddddddddddddddddddddsssssssssssssssssssssssssssssssssssssssssssssssssssssaaq
 
 ### Footer
 

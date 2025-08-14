@@ -3,11 +3,13 @@
   width: 100%;
   object-fit: cover;
   display: block;
+  margin-bottom: 12px;
   border-radius: 8px;
 }
 
 .card__title {
   font-family: Poppins, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1;
   font-weight: 500;
   font-size: 20px;
   text-overflow: ellipsis;

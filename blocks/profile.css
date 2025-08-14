@@ -117,6 +117,6 @@
   .profile__add-btn {
     margin: 0;
     width: 100%;
-    padding: 18px auto;
+    padding: 18px 0;
   }
 }

@@ -36,6 +36,13 @@
 }
 
 .modal__caption {
+  margin: 0;
+  padding: 4px 8px;
+  background-color: #212121;
+  border-radius: 8px;
+  position: absolute;
+  left: 0;
+  top: calc(100% + 10px);
   color: #fff;
 }
 

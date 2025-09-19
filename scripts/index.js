@@ -95,7 +95,7 @@ function closeModal(modal) {
 editProfileBtn.addEventListener("click", function () {
   editProfileNameInput.value = profileNameEl.textContent;
   editProfileCaptionInput.value = profileDescriptionEl.textContent;
-  resetValidation(editProfileForm, [editProfileNameInput, editProfileCaptionInput], config);
+  resetValidation(editProfileForm, [editProfileNameInput, editProfileCaptionInput]);
   openModal(editProfileModal);
 });
 

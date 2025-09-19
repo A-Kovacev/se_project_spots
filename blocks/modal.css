@@ -139,6 +139,7 @@ border: 1px solid #FF000099;
 
 .modal__submit-btn-disabled:hover{
   opacity: .5;
+  cursor: default;
 }
 
 .modal__image-container {
